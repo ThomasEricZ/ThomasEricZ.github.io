@@ -5,10 +5,8 @@ permalink: /aboutMe/
 ---
 <img src="/assets/photoAlbum/Tommy'sFace.png" style="zoom:14%;" align="left"/>
 
-</br><br>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<font size=6 face="fantasy">Thomas Eric Zhang</font>
+<font size=6 face="fantasy">&ensp;Thomas Eric Zhang</font>
 
-</br>
 
 --- 
 
