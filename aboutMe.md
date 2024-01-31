@@ -3,11 +3,7 @@ layout: page
 title: about me
 permalink: /aboutMe/
 ---
-<img src="/assets/photoAlbum/Tommy'sFace.png" style="zoom:14%;" align="left"/>
+<div align=center><img src="/assets/photoAlbum/thomasericzhang.png"></div> 
+<div align=center><img src="/assets/photoAlbum/Tommy'sFace.png" width=50%></div> 
 
-<font size=6 face="fantasy">&ensp;Thomas Eric Zhang</font>
-
-
---- 
-
-To be continued...
+to be continued ...
