@@ -4,7 +4,7 @@ Welcome to Tommy's website. This website runs on [Jekyll](https://jekyllrb.com/)
 
 ## What is Jekyll?
 
-Jekyll is a static site generator. You write posts using Markdown, and Jekyll automatically compiles these posts into web pages. It's great if you don't want to use something like Medium to host your blog. It's not very complicated, but you might need to go through some documentation to set it up for the first time. 
+Jekyll is a static site generator. You write posts using Markdown, and Jekyll automatically compiles these posts into web pages. It's great if you don't want to use something like Medium to host your blog. 
 
 ## Jekyll themes
 
@@ -12,7 +12,7 @@ Jekyll themes can change the appearance of a Jekyll website without impacting th
 
 [Minima Theme preview](https://jekyll.github.io/minima/)
 
-## Learn from Gyanl's theme
+## Gyanl's theme
 
 Gyanl's website has a beautiful design and clear content structure. I use the basic version of minima for my website, but also use some modules of [Gyanl](https://github.com/gyanl/gyanl.github.io).
 
