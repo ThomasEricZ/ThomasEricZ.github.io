@@ -5,6 +5,6 @@ permalink: /aboutMe/
 ---
 <div align=center><img src="/assets/photoAlbum/thomasericzhang.png"></div> 
 
-<img src="/assets/photoAlbum/Tommy'sFace.png" style="zoom:40%;">
+![photo of me](/assets/photoAlbum/Tommy'sFace.png)
 
 to be continued ...
