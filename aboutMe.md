@@ -7,8 +7,4 @@ permalink: /aboutMe/
 
 <div align=center><img src="/assets/photoAlbum/Tommy'sFace.png"></div> 
 
-##### A photo of me
-
-![photo of me](/assets/photoAlbum/Tommy'sFace.png)
-
 to be continued ...
