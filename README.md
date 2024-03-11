@@ -12,10 +12,6 @@ Jekyll themes can change the appearance of a Jekyll website without impacting th
 
 [Minima Theme preview](https://jekyll.github.io/minima/)
 
-## Gyanl's theme
-
-Gyanl's website has a beautiful design and clear content structure. I use the basic version of minima for my website, but also use some modules of [Gyanl](https://github.com/gyanl/gyanl.github.io).
-
 ## License
 
 The Jekyll theme for this website is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT). The content is not. Please don't steal my work.
