@@ -5,7 +5,7 @@ permalink: /aboutMe/
 ---
 <div align=center><img src="/assets/photoAlbum/thomasericzhang.png"></div> 
 
-<div align=center style="width:500px;height:500px;"><img src="/assets/photoAlbum/Tommy'sFace.png"></div> 
+<div align=center style="width:50%;margin: auto;"><img src="/assets/photoAlbum/Tommy'sFace.png"></div> 
 
 #### 🙇🏻‍♂️  Hello, I'm Tommy, hailing from the Eldia Empire and proudly identifying as a citizen of Ymir.
 
