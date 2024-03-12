@@ -31,8 +31,8 @@ plugins:
 # in order as they should show up.
 # default - about.md
 header_pages:
-  - aboutMe.md
   - guidelines.md
+  - aboutMe.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
@@ -74,4 +74,5 @@ minima:
   #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
-
+disqus:
+  shortname: https-thomasericz-github-io
