@@ -3,7 +3,7 @@ layout: page
 title: about me
 permalink: /aboutMe/
 ---
-<div ><img src="/assets/photoAlbum/thomasericzhang.png"></div> 
+<div align=center><img src="/assets/photoAlbum/thomasericzhang.png"></div> 
 
 <div style="width:50%;margin: auto;"><img src="/assets/photoAlbum/Tommy'sFace.png"></div> 
 
