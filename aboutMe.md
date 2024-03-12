@@ -3,15 +3,15 @@ layout: page
 title: about me
 permalink: /aboutMe/
 ---
-<div align=center><img src="/assets/photoAlbum/thomasericzhang.png"></div> 
+<div ><img src="/assets/photoAlbum/thomasericzhang.png"></div> 
 
-<div align=center style="width:50%;margin: auto;"><img src="/assets/photoAlbum/Tommy'sFace.png"></div> 
+<div style="width:50%;margin: auto;"><img src="/assets/photoAlbum/Tommy'sFace.png"></div> 
 
 #### 🙇🏻‍♂️  Hello, I'm Tommy, hailing from the Eldia Empire and proudly identifying as a citizen of Ymir.
 
 #### 👨🏻‍💻  I am a passionate software engineer with two years of hands-on experience in the field of software development.
 
-#### 🎵  Beyond coding, I have a deep love for music, cherishing its genuine passion and incredible creativity. Not only do I appreciate listening to music, but I'm also a versatile musician. I can skillfully play the bamboo flute, acoustic guitar, and electric guitar. If you're interested in experiencing my musical performances, feel free to check out my TikTok.
+#### 🎵  Beyond coding, I have a deep love for music, cherishing its genuine passion and incredible creativity. Not only do I appreciate listening to music, but I'm also a versatile musician. I can skillfully play the bamboo flute, acoustic guitar, and electric guitar. If you're interested in experiencing my musical performances, feel free to check out my [TikTok](https://v.douyin.com/iFh3j7Jd/).
 
 #### 🏋🏻  In addition to my professional and artistic pursuits, I prioritize maintaining a healthy lifestyle through regular exercise.
 
