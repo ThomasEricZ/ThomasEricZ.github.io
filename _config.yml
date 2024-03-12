@@ -32,6 +32,7 @@ plugins:
 # default - about.md
 header_pages:
   - aboutMe.md
+  - guidelines.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
