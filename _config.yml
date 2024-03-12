@@ -76,3 +76,5 @@ minima:
 
 disqus:
   shortname: https-thomasericz-github-io
+
+timezone: Asia/Shanghai
