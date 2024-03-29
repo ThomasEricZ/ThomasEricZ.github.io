@@ -35,7 +35,7 @@ header_pages:
   - aboutMe.md
 
 # Set to `true` to show excerpts on the homepage.
-#show_excerpts: false
+show_excerpts: true
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
@@ -76,3 +76,5 @@ minima:
 
 disqus:
   shortname: https-thomasericz-github-io
+
+timezone: Asia/Shanghai
